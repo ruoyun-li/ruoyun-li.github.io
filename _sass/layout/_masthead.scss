@@ -63,6 +63,10 @@
   &--lg {
     padding-right: 2em;
     font-weight: 700;
+
+    a {
+      font-family: $header-font-family;
+    }
   }
 }
 

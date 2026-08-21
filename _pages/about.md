@@ -10,8 +10,6 @@ redirect_from:
 
 M.S. student in Health Informatics, Yale University
 
-Email: [Ruoyun.li@yale.edu](mailto:Ruoyun.li@yale.edu)
-
 About Me
 ======
 
