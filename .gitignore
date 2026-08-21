@@ -9,7 +9,7 @@ _site/
 
 # Ruby / Bundler
 .bundle/
-vendor/
+/vendor/
 
 # OS / editor
 .DS_Store
