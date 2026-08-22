@@ -24,7 +24,6 @@ Thesis & Publications
 
 * **Li, R.**, Sequeira, S., & Zhang, A. "Latent Dimensions of Social Determinants of Health and Their Associations with Youth Psychopathology Over Time." *Manuscript in preparation.*
 * Liu, P., **Li, R.**, Zhao, Y., et al. "A Cost-aware Framework for Personalized Feature Acquisition in Multi-Disease Prediction." *Manuscript in preparation.*
-* Wang, T., Lin, J., Zhang, X., Xiao, W., Li, Y., Chen, Y., Peng, J., Xing, H., **Li, R.**, et al. "HealthResearchBench: Reusable Test Beds for Reproduction and Independent Improvement in Healthcare and Biomedical Research." *Submitted to AAAI 2027, under review.*
 * **Li, R.** "New Places, New Feelings: How Primal World Beliefs and Mobility Behaviors Predict Momentary Subjective Experiences." *Distinguished Majors Thesis in Psychology, University of Virginia.* Advisors: Prof. Adrienne Wood & Dr. Sareena Chadha.
 
 Conference Presentations
@@ -41,13 +40,6 @@ Supervisor: Prof. Hua Xu, Department of Biomedical Informatics & Data Science, Y
 
 * Developed data filtering and post-training strategies for a medical foundation model trained on longitudinal claims data, focusing on high-quality cohort construction and instruction fine-tuning
 * Designed EHR-specific information-density and data-quality filters to prioritize clinically informative patient trajectories
-
-**HealthResearchBench: Reusable Test Beds for Healthcare and Biomedical Research** — *May 2026 – Present*  
-Collaborative Group Research Project
-
-* Contributed to the experimental schema and evaluation protocol for agent-based reproduction of healthcare and biomedical research
-* Guided AI agents in reproducing TransUNet medical image segmentation and the MIMIC-III multitask benchmark, auditing experimental setup, data processing, model execution, and reproduced results for scientific validity
-* Analyzed agent performance and failure modes across reproduction experiments; co-authored the resulting manuscript submitted to AAAI 2027
 
 **Causal Mediation of Physical Activity and Disease Risk through Organ Imaging in UK Biobank** — *Jul 2025 – Present*  
 Supervisor: Prof. Yize Zhao, Department of Biostatistics, Yale School of Public Health, New Haven, CT
