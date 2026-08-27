@@ -13,7 +13,7 @@ M.S. student in Health Informatics, Yale University
 About Me
 ======
 
-I am an M.S. student in Health Informatics at the Yale School of Public Health. I graduated from the University of Virginia with a B.S. in Statistics and Psychology (Highest Distinction).
+Hi, this is Ruoyun. I am an M.S. student in Health Informatics at the Yale School of Public Health, where I work with [Prof. Yize Zhao](https://www.yizezhao.com/) in Biostatistics and [Prof. Hua Xu](https://medicine.yale.edu/lab/clinical-nlp/team/) in Biomedical Informatics and Data Science. I graduated from the University of Virginia with a B.S. in Statistics and Psychology, earning Highest Distinction with a GPA of 3.95. My Distinguished Majors Program thesis in Psychology was supervised by [Prof. Adrienne Wood](https://emotionbehavior.com/).
 
 My research focuses on applying data science, biostatistics, and bioinformatics to better understand mental health and its biological, behavioral, and social determinants. I work with diverse data sources, including neuroimaging, electronic health records, wearable sensing, genetic data, and other high-dimensional biomedical datasets, using advanced statistical methods and AI approaches.
 
