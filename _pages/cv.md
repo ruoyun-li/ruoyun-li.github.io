@@ -8,12 +8,6 @@ author_profile: true
 
 [Download PDF](/files/Ruoyun_Li_CV.pdf)
 
-Education
-======
-
-* **M.S. in Health Informatics in Public Health**, Yale University, Aug 2025 – May 2027
-* **B.S. in Statistics & Psychology, Highest Distinction**, University of Virginia, Aug 2021 – May 2025 (GPA: 3.95/4.00)
-
 Research Interests
 ======
 
