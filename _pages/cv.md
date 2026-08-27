@@ -35,40 +35,11 @@ Conference Presentations
 Research Experience
 ======
 
-**Post-Training and Data Filtering for a Medical Foundation Model** — *Jul 2026 – Present*  
-Supervisor: Prof. Hua Xu, Department of Biomedical Informatics & Data Science, Yale School of Medicine, New Haven, CT
-
-* Developed data filtering and post-training strategies for a medical foundation model trained on longitudinal claims data, focusing on high-quality cohort construction and instruction fine-tuning
-* Designed EHR-specific information-density and data-quality filters to prioritize clinically informative patient trajectories
-
-**Causal Mediation of Physical Activity and Disease Risk through Organ Imaging in UK Biobank** — *Jul 2025 – Present*  
-Supervisor: Prof. Yize Zhao, Department of Biostatistics, Yale School of Public Health, New Haven, CT
-
-* Integrated accelerometer, multi-organ imaging, longitudinal disease, and GWAS data from UK Biobank to study how physical activity influences disease risk through organ-level pathways
-* Built curated multimorbidity outcomes using ICD-to-PheCode mapping and chronic disease filtering
-* Constructed disease hyperedge outcomes using longitudinal PheCode co-occurrence networks to capture higher-order comorbidity structure
-* Applied interventional mediation and Mendelian randomization to estimate organ-specific causal effects using survival models and bootstrap-based inference
-
-**Cost-Aware Framework for Personalized Feature Acquisition in Multi-Disease Prediction** — *Jul 2025 – Present*  
-Supervisor: Prof. Yize Zhao, Department of Biostatistics, Yale School of Public Health, New Haven, CT
-
-* Developed a UK Biobank data preprocessing pipeline integrating 1,773 predictors across lifestyle, clinical measurements, environmental exposures, genetics, and imaging, with PCA-based dimensionality reduction and time-aligned disease outcome construction for downstream multimodal modeling
-* Mapped UK Biobank features to CPT/HCPCS codes and real-world reimbursement data to estimate acquisition costs
-
-**High-Dimensional Mediation of Social Determinants, Brain Connectivity & Youth Mental Health** — *Jan 2025 – Aug 2026*  
-Supervisor: Prof. Aiying Zhang, NeuroBioInformatics Lab, School of Data Science, University of Virginia, Charlottesville, VA
-
-* Conducted high-dimensional multivariate mediation analyses in the ABCD cohort to quantify how whole-brain resting-state functional connectivity (rsFC) mediates associations between social determinants of health and youth psychiatric symptom severity
-* Reduced multi-domain SDOH variables into interpretable latent components using sparse PCA in R, enabling stable modeling under high-dimensional settings
-* Implemented the Directions of Mediation (DM) framework in MATLAB to model whole-brain connectivity as a high-dimensional mediator, with bootstrap-based inference to estimate indirect effects and statistical significance
-* Applied longitudinal linear mixed-effects models to examine associations between SDOH latent dimensions and changes in OCD, anxiety, and depressive symptoms over time
-
-**Longitudinal Modeling of Mobile Sensing, EMA, and Psychological Well-Being** — *Aug 2023 – May 2025*  
-Supervisor: Prof. Adrienne Wood, Emotion and Behavior Lab, Department of Psychology, University of Virginia, Charlottesville, VA
-
-* Completed a Distinguished Majors Program thesis investigating how primal world beliefs and social exploratory behaviors influence psychological well-being over time, using mobile sensing data
-* Processed 1.2 GB of mobile-sensing data through data cleaning, preprocessing, and visualization using Pandas, NumPy, and Matplotlib in Python
-* Analyzed longitudinal data using linear mixed-effects models implemented in R with the lme4 package, identifying temporal relationships among world beliefs, exploratory behavior, and psychological well-being
+* **Post-Training and Data Filtering for a Medical Foundation Model** — Prof. Hua Xu, Yale School of Medicine, *Jul 2026 – Present*
+* **Causal Mediation of Physical Activity and Disease Risk through Organ Imaging in UK Biobank** — Prof. Yize Zhao, Yale School of Public Health, *Jul 2025 – Present*
+* **Cost-Aware Framework for Personalized Feature Acquisition in Multi-Disease Prediction** — Prof. Yize Zhao, Yale School of Public Health, *Jul 2025 – Present*
+* **High-Dimensional Mediation of Social Determinants, Brain Connectivity & Youth Mental Health** — Prof. Aiying Zhang, University of Virginia, *Jan 2025 – Aug 2026*
+* **Longitudinal Modeling of Mobile Sensing, EMA, and Psychological Well-Being** — Prof. Adrienne Wood, University of Virginia, *Aug 2023 – May 2025*
 
 Professional Skills
 ======
