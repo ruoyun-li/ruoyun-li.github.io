@@ -11,7 +11,7 @@ author_profile: true
 Education
 ======
 
-* **M.S. in Public Health in Health Informatics**, Yale University, Aug 2025 – May 2027
+* **M.S. in Health Informatics in Public Health**, Yale University, Aug 2025 – May 2027
 * **B.S. in Statistics & Psychology, Highest Distinction**, University of Virginia, Aug 2021 – May 2025 (GPA: 3.95/4.00)
 
 Research Interests
