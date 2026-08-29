@@ -87,19 +87,6 @@
 }
 
 .research-item__figure {
-    width: 100%;
-
-    @include breakpoint($medium) {
-      width: 100%;
-    }
-
-    img {
-      border: 1px solid var(--global-border-color);
-    }
-  }
-}
-
-.research-item__figure {
   display: block;
   flex: 0 0 auto;
   width: 100%;
