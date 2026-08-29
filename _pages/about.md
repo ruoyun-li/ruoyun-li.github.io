@@ -1,14 +1,13 @@
 ---
 permalink: /
 title: "Ruoyun Li"
+hide_title: true
 excerpt: "M.S. student in Health Informatics, Yale University"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-M.S. student in Health Informatics, Yale University
 
 About Me
 ======
