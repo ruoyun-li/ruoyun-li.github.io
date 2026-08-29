@@ -17,7 +17,7 @@ I am an M.S. student in Health Informatics at the Yale School of Public Health, 
 
 My research asks how social, behavioral, and biological factors jointly shape mental and physical health, and how we can study these relationships in ways that are both causal and interpretable. I develop and apply high-dimensional mediation, causal inference, and multimodal prediction methods to large-scale cohorts such as UK Biobank and ABCD, integrating neuroimaging, EHR, wearable sensing, and genetic data. More recently, I have been working on data-quality measurement for post-training medical foundation models using longitudinal medical claims data.
 
-I plan to apply to Ph.D. programs in biostatistics, health informatics, bioinformatics, and related fields for Fall 2027. I am especially interested in building methods that do not force a trade-off between statistical rigor, computational scale, and clinical meaning.
+I am applying to Ph.D. programs in Biostatistics, Health Informatics, and Bioinformatics for Fall 2027. I am especially interested in building methods that do not force a trade-off between statistical rigor, computational scale, and clinical meaning.
 
 Education
 ======
