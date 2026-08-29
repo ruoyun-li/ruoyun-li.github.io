@@ -13,7 +13,7 @@ M.S. student in Health Informatics, Yale University
 About Me
 ======
 
-I am an M.S. student in Health Informatics at the Yale School of Public Health, where I work with [Prof. Yize Zhao](https://www.yizezhao.com/) in Biostatistics and [Prof. Hua Xu](https://medicine.yale.edu/lab/clinical-nlp/team/) in Biomedical Informatics and Data Science. I graduated from the University of Virginia with a B.S. in Statistics and Psychology, earning Highest Distinction. My Distinguished Majors Program thesis in Psychology was supervised by [Prof. Adrienne Wood](https://emotionbehavior.com/).
+I am an M.S. student in Health Informatics at the Yale School of Public Health, where I work with [Prof. Yize Zhao](https://www.yizezhao.com/) in Biostatistics and [Prof. Hua Xu](https://medicine.yale.edu/lab/clinical-nlp/team/) in Biomedical Informatics and Data Science. I graduated from the University of Virginia with a B.S. in Statistics and Psychology, earning Highest Distinction. My Distinguished Majors Program thesis in Psychology was supervised by [Prof. Adrienne Wood](https://emotionbehavior.com/). As an undergraduate, I also worked with [Prof. Aiying Zhang](https://aiying0512.github.io/) in the School of Data Science.
 
 My research focuses on understanding how social, behavioral, and biological factors jointly shape mental and physical health, and on developing methods that make these relationships more causal, interpretable, and clinically meaningful. I work with large-scale biomedical cohorts such as UK Biobank and ABCD, using high-dimensional mediation, causal inference, and multimodal prediction to integrate neuroimaging, electronic health records, mobile sensing, and genetic data.
 
