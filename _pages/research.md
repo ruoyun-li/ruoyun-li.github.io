@@ -7,7 +7,7 @@ author_profile: false
 ---
 
 <div class="research-item">
-  <h2 class="research-item__title">Longitudinal Modeling of Mobile Sensing, EMA &amp; Well-Being<span class="research-item__badge">Distinguished Majors Thesis</span></h2>
+  <h2 class="research-item__title">Longitudinal Modeling of Real-World Mobility, Momentary Experience and Primal World Beliefs<span class="research-item__badge">Distinguished Majors Thesis</span></h2>
   <p class="research-item__meta">Aug 2023 – May 2025 &nbsp;·&nbsp; Prof. Adrienne Wood, Emotion and Behavior Lab, University of Virginia</p>
 
   <div class="research-item__body">
