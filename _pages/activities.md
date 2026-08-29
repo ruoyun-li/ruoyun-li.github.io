@@ -1,7 +1,7 @@
 ---
 title: "Activities"
 permalink: /activities/
-author_profile: true
+author_profile: false
 ---
 
 ---

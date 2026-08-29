@@ -34,6 +34,16 @@
   }
 }
 
+/* no author profile in the sidebar: reclaim its column */
+.page--full {
+  @include breakpoint($large) {
+    width: 100%;
+    float: none;
+    padding-left: 0;
+    padding-right: 16.9491525424%;
+  }
+}
+
 .page__title {
   margin-top: 0;
   line-height: 1;
