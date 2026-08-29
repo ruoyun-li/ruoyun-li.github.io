@@ -31,7 +31,7 @@ author:
   employer         : "Yale University"
   uri              : # URL
   email            : "ruoyun.li@yale.edu"
-  cv               : "/files/Ruoyun_Li_CV.pdf" # path to the CV PDF, shown in the sidebar
+  cv               : # path to the CV PDF, shown in the sidebar
 
   # Academic websites
   academia         : # URL
