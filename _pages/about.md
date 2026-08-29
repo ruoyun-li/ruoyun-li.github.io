@@ -13,13 +13,11 @@ M.S. student in Health Informatics, Yale University
 About Me
 ======
 
-I am an M.S. student in Health Informatics at the Yale School of Public Health, where I work with [Prof. Yize Zhao](https://www.yizezhao.com/) in Biostatistics and [Prof. Hua Xu](https://medicine.yale.edu/lab/clinical-nlp/team/) in Biomedical Informatics and Data Science. I graduated from the University of Virginia with a B.S. in Statistics and Psychology, earning Highest Distinction. My Distinguished Majors Program thesis in Psychology was supervised by [Prof. Adrienne Wood](https://emotionbehavior.com/). As an undergraduate, I also worked with [Prof. Aiying Zhang](https://aiying0512.github.io/) in the School of Data Science.
-
-My research focuses on understanding how social, behavioral, and biological factors jointly shape mental and physical health, and on developing methods that make these relationships more causal, interpretable, and clinically meaningful. I work with large-scale biomedical cohorts such as UK Biobank and ABCD, using high-dimensional mediation, causal inference, and multimodal prediction to integrate neuroimaging, electronic health records, mobile sensing, and genetic data.
+I am an M.S. student in Health Informatics at the Yale School of Public Health, where I work with [Prof. Yize Zhao](https://www.yizezhao.com/) in Biostatistics and [Prof. Hua Xu](https://medicine.yale.edu/lab/clinical-nlp/team/) in Biomedical Informatics and Data Science. I graduated from the University of Virginia with a B.S. in Statistics and Psychology, earning Highest Distinction. During my undergraduate studies, I worked with [Prof. Aiying Zhang](https://aiying0512.github.io/) in the School of Data Science, and my Distinguished Majors Program thesis in Psychology was supervised by [Prof. Adrienne Wood](https://emotionbehavior.com/). My research focuses on understanding how social, behavioral, and biological factors jointly shape mental and physical health, and on developing methods that make these relationships more causal, interpretable, and clinically meaningful. I work with large-scale biomedical cohorts such as UK Biobank and ABCD, using high-dimensional mediation, causal inference, and multimodal prediction to integrate neuroimaging, electronic health records, mobile sensing, and genetic data.
 
 More recently, I have been studying data quality and data selection for post-training medical foundation models using longitudinal medical claims data, with the goal of understanding which training examples contribute most to reliable clinical prediction and generalization.
 
-I am applying to Ph.D. programs in Biostatistics, Health Informatics, and Bioinformatics for Fall 2027. I am especially interested in developing methods that do not force a trade-off between statistical rigor, computational scale, interpretability, and clinical relevance.
+I am applying to Ph.D. programs in Biostatistics, Health Informatics, and Bioinformatics for Fall 2027. I am especially interested in building methods that do not force a trade-off between statistical rigor, computational scale, and clinical meaning.
 
 Education
 ======
