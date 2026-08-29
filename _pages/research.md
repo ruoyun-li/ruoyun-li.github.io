@@ -2,39 +2,68 @@
 title: "Research"
 permalink: /research/
 author_profile: false
-sitemap: false
 ---
 
 ---
 
 <div class="research-item">
-  <h2 class="research-item__title">[Project title]</h2>
-  <p class="research-item__meta">[Mon YYYY – Mon YYYY] &nbsp;·&nbsp; [Advisor / Lab, Institution]</p>
+  <h2 class="research-item__title">Longitudinal Modeling of Mobile Sensing, EMA &amp; Well-Being<span class="research-item__badge">Distinguished Majors Thesis</span></h2>
+  <p class="research-item__meta">Aug 2023 – May 2025 &nbsp;·&nbsp; Prof. Adrienne Wood, Emotion and Behavior Lab, University of Virginia</p>
 
   <div class="research-item__body">
     <figure class="research-item__figure">
-      <img src="/images/placeholder-figure.png" alt="[describe the figure]">
-      <figcaption>[Figure caption]</figcaption>
+      <a href="/files/Li_ReidConference2025_poster.pdf"><img src="/images/dmp-reid-poster.jpg" alt="Conference poster: New Places, New Feelings"></a>
+      <figcaption>Poster presented at the L. Starling Reid Undergraduate Psychology Research Conference, April 2025.</figcaption>
     </figure>
 
     <div class="research-item__text">
-      <p><strong>Problem.</strong> [Placeholder — the layout demo only. Two to three sentences on the question and why it matters.]</p>
-      <p><strong>Approach.</strong> [Placeholder. The data and the method.]</p>
-      <p><strong>My role.</strong> [Placeholder. What you personally built or ran.]</p>
-      <p><strong>Status.</strong> [Placeholder. Published / under review / in preparation / ongoing.]</p>
+      <p><strong>Problem.</strong></p>
+      <ul>
+        <li>Do beliefs that the world is <em>safe</em> and <em>enticing</em> predict how much people explore?</li>
+        <li>Does exploring make a moment feel better?</li>
+      </ul>
+
+      <p><strong>Approach.</strong></p>
+      <ul>
+        <li>347 first-year students, two two-week waves</li>
+        <li>GPS logged once per minute; EMA three times daily</li>
+        <li>Locations binned into 74×74 ft grid squares → visits, duration, novelty</li>
+      </ul>
+
+      <p><strong>My role.</strong></p>
+      <ul>
+        <li>Processed 1.2 GB of raw sensing data in Python (Pandas, NumPy, Matplotlib)</li>
+        <li>Built the exploration metrics; fit linear mixed-effects models in R (lme4)</li>
+      </ul>
+
+      <p><strong>Status.</strong></p>
+      <ul>
+        <li>Thesis completed 2025; poster presented at Reid 2025</li>
+      </ul>
     </div>
   </div>
 
+  <div class="research-item__gallery">
+    <figure>
+      <img src="/images/dmp-study-design.png" alt="Study design: two waves of two-week behavior tracking, each followed by a survey">
+      <figcaption>Two waves of passive tracking and EMA, each followed by a trait survey.</figcaption>
+    </figure>
+    <figure>
+      <img src="/images/dmp-grid-binning.jpg" alt="Participant movement traces overlaid on a grid covering Charlottesville">
+      <figcaption>Per-minute coordinates binned into grid squares to derive unique locations and visit durations.</figcaption>
+    </figure>
+  </div>
+
   <p class="research-item__tags">
-    <span class="tag">Causal inference</span>
-    <span class="tag">Mediation</span>
-    <span class="tag">UK Biobank</span>
+    <span class="tag">Mobile sensing</span>
+    <span class="tag">EMA</span>
+    <span class="tag">Mixed-effects models</span>
+    <span class="tag">Geolocation</span>
     <span class="tag">R</span>
     <span class="tag">Python</span>
   </p>
 
   <p class="research-item__links">
     <a href="/files/Li_ReidConference2025_poster.pdf">Poster (PDF)</a>
-    <span class="is-pending">Manuscript in preparation</span>
   </p>
 </div>
