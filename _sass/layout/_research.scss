@@ -86,15 +86,7 @@
   }
 }
 
-/* wide, detail-dense figures read better full width above the text */
-.research-item__body--stacked {
-  flex-direction: column;
-
-  @include breakpoint($medium) {
-    flex-direction: column;
-  }
-
-  .research-item__figure {
+.research-item__figure {
     width: 100%;
 
     @include breakpoint($medium) {

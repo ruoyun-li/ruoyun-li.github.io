@@ -10,7 +10,7 @@ author_profile: false
   <h2 class="research-item__title">Cost-Aware Framework for Personalized Feature Acquisition in Multi-Disease Prediction<span class="research-item__badge">Manuscript in Preparation</span></h2>
   <p class="research-item__meta">Jul 2025 – Present &nbsp;·&nbsp; Prof. Yize Zhao, Department of Biostatistics, Yale School of Public Health</p>
 
-  <div class="research-item__body research-item__body--stacked">
+  <div class="research-item__body">
     <figure class="research-item__figure">
       <a href="/images/ukb-cost-aware-pipeline.png"><img src="/images/ukb-cost-aware-pipeline.png" alt="UK Biobank preprocessing pipeline: feature matrix construction, PCA reduction, cost mapping, and PheCode outcome alignment"></a>
     </figure>
