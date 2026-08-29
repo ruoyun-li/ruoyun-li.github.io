@@ -13,7 +13,6 @@ author_profile: false
   <div class="research-item__body">
     <figure class="research-item__figure">
       <a href="/files/Li_ReidConference2025_poster.pdf"><img src="/images/dmp-reid-poster.jpg" alt="Conference poster: New Places, New Feelings"></a>
-      <figcaption>Poster presented at the L. Starling Reid Undergraduate Psychology Research Conference, April 2025.</figcaption>
     </figure>
 
     <div class="research-item__text">
