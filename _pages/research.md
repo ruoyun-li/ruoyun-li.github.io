@@ -43,17 +43,6 @@ author_profile: false
     </div>
   </div>
 
-  <div class="research-item__gallery">
-    <figure>
-      <img src="/images/dmp-study-design.png" alt="Study design: two waves of two-week behavior tracking, each followed by a survey">
-      <figcaption>Two waves of passive tracking and EMA, each followed by a trait survey.</figcaption>
-    </figure>
-    <figure>
-      <img src="/images/dmp-grid-binning.jpg" alt="Participant movement traces overlaid on a grid covering Charlottesville">
-      <figcaption>Per-minute coordinates binned into grid squares to derive unique locations and visit durations.</figcaption>
-    </figure>
-  </div>
-
   <p class="research-item__tags">
     <span class="tag">Mobile sensing</span>
     <span class="tag">EMA</span>
