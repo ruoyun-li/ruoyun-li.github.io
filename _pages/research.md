@@ -18,6 +18,7 @@ author_profile: false
 
     <div class="research-item__text">
       <p>People move through familiar and unfamiliar places every day, but those movements are not just about geography. They may also reflect how people perceive and engage with the world around them. For example, someone who sees the world as safe may feel more comfortable exploring unfamiliar environments. My thesis examined how these <strong>primal world beliefs</strong> interact with real-world <strong>mobility patterns</strong> to shape <strong>momentary affect</strong> and <strong>activity typicality</strong>, using <strong>longitudinal geolocation data</strong>, <strong>ecological momentary assessment (EMA)</strong>, and self-reported world-belief measures.</p>
+      <p class="research-item__links"><a href="/files/Li_ReidConference2025_poster.pdf">Poster (PDF)</a></p>
     </div>
   </div>
 
@@ -30,7 +31,4 @@ author_profile: false
     <span class="tag">Python</span>
   </p>
 
-  <p class="research-item__links">
-    <a href="/files/Li_ReidConference2025_poster.pdf">Poster (PDF)</a>
-  </p>
 </div>
