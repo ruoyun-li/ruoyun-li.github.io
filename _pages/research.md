@@ -6,6 +6,15 @@ author_profile: false
 
 ---
 
+<p class="research-lines__heading">Research Lines</p>
+
+<ul class="research-lines">
+  <li><i class="fa-solid fa-brain" aria-hidden="true"></i><span>Neuroimaging &amp; Brain Connectomics</span></li>
+  <li><i class="fa-solid fa-file-medical" aria-hidden="true"></i><span>Electronic Health Records &amp; Claims</span></li>
+  <li><i class="fa-solid fa-mobile-screen" aria-hidden="true"></i><span>Wearable &amp; Mobile Sensing</span></li>
+  <li><i class="fa-solid fa-dna" aria-hidden="true"></i><span>Genetics &amp; Population Cohorts</span></li>
+</ul>
+
 <div class="research-item">
   <h2 class="research-item__title">Longitudinal Modeling of Mobile Sensing, EMA &amp; Well-Being<span class="research-item__badge">Distinguished Majors Thesis</span></h2>
   <p class="research-item__meta">Aug 2023 – May 2025 &nbsp;·&nbsp; Prof. Adrienne Wood, Emotion and Behavior Lab, University of Virginia</p>
