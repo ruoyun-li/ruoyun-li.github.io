@@ -31,6 +31,31 @@ author_profile: false
 </div>
 
 <div class="research-item">
+  <h2 class="research-item__title">High-Dimensional Mediation of Social Determinants, Brain Connectivity &amp; Youth Mental Health<span class="research-item__badge">Manuscript in Preparation</span></h2>
+  <p class="research-item__meta">Jan 2025 – Aug 2026 &nbsp;·&nbsp; Prof. Aiying Zhang, NeuroBioInformatics Lab, School of Data Science, University of Virginia</p>
+
+  <div class="research-item__body">
+    <figure class="research-item__figure">
+      <a href="/images/abcd-sdoh-connectivity.jpg"><img src="/images/abcd-sdoh-connectivity.jpg" alt="Whole-brain connectome showing connections carrying the association between a social-determinant dimension and OCD symptoms, coloured by functional network"></a>
+    </figure>
+
+    <div class="research-item__text">
+      <p>A child's neighborhood may shape mental health long before those effects appear as symptoms. One possibility is that social and environmental exposures influence the organization of brain networks, creating a neural pathway between where children grow up and how they feel.</p>
+      <p>I studied this question using the <strong>ABCD cohort</strong>, combining 81 social-determinant measures, <strong>whole-brain resting-state functional connectivity</strong> across 379 regions, and psychiatric symptom data. Because both the exposure and mediator spaces were highly dimensional, I used <strong>sparse PCA</strong> to derive interpretable SDoH dimensions and <strong>high-dimensional mediation analysis</strong> to identify connectivity patterns that may carry their associations with OCD and anxiety symptoms. I also used <strong>bootstrap inference</strong> and <strong>longitudinal mixed-effects models</strong> to examine these relationships over time.</p>
+    </div>
+  </div>
+
+  <p class="research-item__tags">
+    <span class="tag">ABCD</span>
+    <span class="tag">Social Determinants of Health</span>
+    <span class="tag">rs-fMRI</span>
+    <span class="tag">Sparse PCA</span>
+    <span class="tag">High-Dimensional Mediation</span>
+    <span class="tag">Linear Mixed-Effects Models</span>
+  </p>
+</div>
+
+<div class="research-item">
   <h2 class="research-item__title">Longitudinal Modeling of Real-World Mobility, Momentary Experience and Primal World Beliefs<span class="research-item__badge">Distinguished Majors Thesis</span></h2>
   <p class="research-item__meta">Aug 2023 – May 2025 &nbsp;·&nbsp; Prof. Adrienne Wood, Emotion and Behavior Lab, University of Virginia</p>
 
