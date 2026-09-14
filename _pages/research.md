@@ -26,10 +26,10 @@ author_profile: false
 
   <p class="research-item__tags">
     <span class="tag">UK Biobank</span>
-    <span class="tag">Multimodal Integration</span>
-    <span class="tag">Cost-Aware Prediction</span>
-    <span class="tag">PheCodes</span>
-    <span class="tag">Dimensionality Reduction</span>
+    <span class="tag">Cost-Aware Learning</span>
+    <span class="tag">Feature Acquisition</span>
+    <span class="tag">Multi-Disease Prediction</span>
+    <span class="tag">Reinforcement Learning</span>
   </p>
 </div>
 
