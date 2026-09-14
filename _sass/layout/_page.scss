@@ -45,9 +45,21 @@
 }
 
 .page__title {
+  /* a display-size title filling roughly the top fifth of the first screen */
+  display: flex;
+  align-items: flex-end;
+  min-height: 20vh;
   margin-top: 0;
-  font-size: $type-size-2;
+  font-size: 2.5em;
   line-height: 1;
+
+  @include breakpoint($medium) {
+    font-size: 3.5em;
+  }
+
+  @include breakpoint($large) {
+    font-size: 4.25em;
+  }
 
   & + .page__meta {
     margin-top: -0.5em;
