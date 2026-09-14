@@ -45,11 +45,10 @@
 }
 
 .page__title {
-  /* a display-size title filling roughly the top fifth of the first screen */
-  display: flex;
-  align-items: flex-end;
-  min-height: 20vh;
+  /* bottom margin balances #main's top margin, so the space above and below
+     the title's glyphs (to the rule beneath it) is equal */
   margin-top: 0;
+  margin-bottom: 1.5rem;
   font-size: 2.5em;
   line-height: 1;
 
