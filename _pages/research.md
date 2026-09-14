@@ -13,6 +13,7 @@ author_profile: false
   <div class="research-item__body">
     <figure class="research-item__figure">
       <a href="/images/ukb-cost-aware-pipeline.png"><img src="/images/ukb-cost-aware-pipeline.png" alt="UK Biobank preprocessing pipeline: feature matrix construction, PCA reduction, cost mapping, and PheCode outcome alignment"></a>
+      <a href="https://pangpang12-cofamd.hf.space/"><img class="research-item__screenshot" src="/images/cofamd-demo-home.jpg" alt="Home page of the CoFA-MD interactive demo"></a>
     </figure>
 
     <div class="research-item__text">

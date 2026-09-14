@@ -107,6 +107,12 @@
   }
 }
 
+/* app screenshots sit on a light background, so give them an edge */
+.research-item__figure .research-item__screenshot {
+  margin-top: 0.75em;
+  border: 1px solid var(--global-border-color);
+}
+
 .research-item__text {
   flex: 1 1 auto;
 
