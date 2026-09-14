@@ -18,9 +18,9 @@ author_profile: false
 
     <div class="research-item__text">
       <p>Most prediction models assume that every useful measurement is already available. In practice, however, clinicians often start with limited information and must decide whether another lab test, MRI, or genetic assay is worth its cost. Our project asks whether a model can make that decision adaptively for each patient, balancing predictive value against real-world resource use.</p>
-      <p>I helped build the <strong>UK Biobank</strong> side of this framework, from data to evaluation. I developed a preprocessing pipeline spanning <strong>1,773 candidate variables across 41 feature sets</strong>, including lifestyle, clinical, environmental, genetic, and imaging data; constructed <strong>time-aligned PheCode outcomes</strong>; and built a real-world <strong>acquisition-cost benchmark</strong> by linking measurements to CPT/HCPCS codes and reimbursement schedules.</p>
-      <p>I also contributed to modeling and testing <strong>CoFA-MD</strong>, which combines a <strong>graph-aware multi-disease predictor</strong> with a <strong>reinforcement-learning policy</strong> that sequentially chooses which measurement group to acquire next, or when to stop, under a fixed budget. I participated in evaluating the model across UK Biobank and YNHH, including budget sweeps, baseline comparisons, and ablation analyses to study the trade-off between predictive performance and acquisition cost.</p>
-      <p>Want to see how the model makes acquisition decisions for individual patients? Try the interactive demo: <a href="https://pangpang12-cofamd.hf.space/">Interactive Demo</a></p>
+      <p>I helped build the <strong>UK Biobank</strong> pipeline, integrating <strong>1,773 variables across 41 feature sets</strong>, constructing <strong>time-aligned PheCode outcomes</strong>, and mapping measurements to CPT/HCPCS codes and reimbursement schedules to create a real-world <strong>acquisition-cost benchmark</strong>.</p>
+      <p>I also contributed to modeling and evaluating <strong>CoFA-MD</strong>, which combines a <strong>graph-aware multi-disease predictor</strong> with a <strong>reinforcement-learning policy</strong> that decides which measurement to acquire next, or when to stop, under a fixed budget. I evaluated the framework through budget sweeps, baseline comparisons, and ablation studies.</p>
+      <p>See how CoFA-MD makes patient-specific acquisition decisions in the <a href="https://pangpang12-cofamd.hf.space/">interactive demo</a>.</p>
     </div>
   </div>
 
