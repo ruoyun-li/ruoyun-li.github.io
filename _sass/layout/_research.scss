@@ -68,11 +68,12 @@
   font-size: $type-size-4;
 }
 
-.research-item__meta {
+/* scoped under .research-item so they outrank .page__content p */
+.research-item .research-item__meta {
   margin: 0 0 1.2em;
   color: var(--global-text-color-light);
   font-family: $sans-serif;
-  font-size: 0.875em;
+  font-size: 1rem;
 }
 
 .research-item__body {
@@ -170,10 +171,10 @@
   }
 }
 
-.research-item__tags {
+.research-item .research-item__tags {
   margin: 1.4em 0 0.6em;
   font-family: $sans-serif;
-  font-size: 0.8125em;
+  font-size: 0.9rem;
 
   .tag {
     display: inline-block;
@@ -186,14 +187,14 @@
   }
 }
 
-.research-item__text .research-item__links {
+.research-item .research-item__text .research-item__links {
   margin-top: 1.1em;
 }
 
-.research-item__links {
+.research-item .research-item__links {
   margin: 0;
   font-family: $sans-serif;
-  font-size: 0.875em;
+  font-size: 1rem;
 
   a {
     margin-right: 1.2em;
